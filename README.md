@@ -41,7 +41,7 @@ http://localhost:28015
 with **TodoDB** as its name.
 Database should contain **Todo** table.
 
-### Installation
+### Build
 To prepare application
 ```sh
 npm install
