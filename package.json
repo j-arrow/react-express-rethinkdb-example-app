@@ -9,6 +9,13 @@
   },
   "author": "Rafal Ochyra (https://github.com/j-arrow)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j-arrow/react-express-rethinkdb-example-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/j-arrow/react-express-rethinkdb-example-app/issues"
+  },
   "keywords": [
     "react",
     "redux",
